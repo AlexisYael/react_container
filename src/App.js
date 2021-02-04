@@ -7,16 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Soy una aplicación de React que esta en un contenedor de Docker, me ves gracias al servidor NGINX y Google Cloud me esta hosteando :D
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>Lo que no tengo idea es como se pone Django en modo producción :c</p>
       </header>
     </div>
   );
